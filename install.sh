@@ -118,7 +118,8 @@ brew tap caskroom/cask
 brew cask install 1password alfred dropbox firefox imageoptim chrome slack tripmode sequelpro vlc virtualbox sublime-text paw transmit reeder bear
 
 ## Installer utilitaires
-brew install 
+brew tap homebrew/homebrew-php
+brew install gti go php56 ruby node nginx
 
 ## Vider le Dock
 defaults write com.apple.dock persistent-apps -array
