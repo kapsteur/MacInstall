@@ -115,7 +115,7 @@ echo "La configuration de cette machine est terminée. L’installation des appl
 brew tap caskroom/cask
 
 ## Installer applications avec Cask
-brew cask install 1password alfred dropbox firefox imageoptim chrome slack tripmode sequelpro vlc virtualbox sublime-text paw transmit reeder bear
+brew cask install 1password alfred dropbox firefox imageoptim chrome slack tripmode sequelpro vlc virtualbox sublime-text paw transmit reeder bear little-snitch
 
 ## Installer utilitaires
 brew tap homebrew/homebrew-php
